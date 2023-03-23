@@ -50,7 +50,10 @@ print('\n');
 var_Nump2=np.var(NUMPY_Arr,axis=0);
 print(var_Nump2);
 
-##
+DF=np.array([[20,10,8],[25,8,10],[27,5,3],[30,9,7]]);
+print(DF);
+
+
 
 
 
